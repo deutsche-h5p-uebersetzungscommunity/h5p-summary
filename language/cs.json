@@ -47,7 +47,7 @@
             }
           ],
           "label": "Definujte vlastní zpětnou vazbu pro jakýkoli rozsah skóre",
-          "description": "Klepnutím na tlačítko \"Add range\" přidejte libovolný počet rozsahů. Příklad: 0-20% špatné skóre, 21-91% průměrné skóre, 91-100% výborné skóre!",
+          "description": "Klepnutím na tlačítko \"Přidat rozsah\" přidejte libovolný počet rozsahů. Příklad: 0-20% špatné skóre, 21-91% průměrné skóre, 91-100% výborné skóre!",
           "entity": "rozsah",
           "field": {
             "fields": [
@@ -97,7 +97,7 @@
     },
     {
       "label": "Popisek tlačítka zobrazení tipu",
-      "default": "Zobrazit tip"
+      "default": "Zobrazit nápovědu"
     },
     {
       "label": "Textové znázornění výsledkové lišty pro ty, kteří používají čtecí zařízení",
